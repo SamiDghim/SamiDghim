@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Sami Dghim</h1>
+<h1 align="center">Hi 👋 I'm Sami</h1>
 <h3 align="center">Senior Fullstack Engineer • System Design • Performance & Observability</h3>
 
 <p align="center">
@@ -66,22 +66,6 @@ Full-stack project demonstrating API-first architecture with a Django backend an
 
 ---
 
-### 🔹 potato_trading_api  
-**Ruby-Based REST API Service**
-
-A service-oriented backend focused on clean architecture and scalability.
-
-**Highlights:**
-- Implemented layered architecture (controllers → services → repositories)
-- Structured error handling and response serialization
-- Built reusable business logic modules
-- Designed API endpoints with versioning strategy
-- Emphasized testability and maintainability
-
-**Tech:** Ruby • RESTful Design • Service Objects • PostgreSQL
-
----
-
 ### 🔹 SolidTasks  
 **Background Job Orchestration Engine (Experimental)**
 
@@ -96,22 +80,6 @@ Exploration of asynchronous processing and job orchestration patterns in Ruby.
 **Tech:** Ruby • Concurrency • Background Processing Patterns
 
 ---
-
-### 🔹 catch_mail  
-**Development Email Interception Tool**
-
-Utility tool built to simplify email testing workflows during development.
-
-**Highlights:**
-- Captures outgoing emails in development
-- Simulates email delivery environments
-- Simplifies testing of notification systems
-- Designed for lightweight integration
-
-**Tech:** Ruby • SMTP Handling • Development Tooling
-
----
-
 # Technical Expertise
 
 ## Backend
