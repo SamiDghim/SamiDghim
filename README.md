@@ -5,7 +5,8 @@
   📍 Paris, France  
   <br/>
   <a href="https://linkedin.com/in/sami-dghim-6a8a2798/">LinkedIn</a> •
-  <a href="https://quizlab-app.com/">QuizLab</a>
+  <a href="https://medium.com/@samidghim">Medium</a> •
+  <a href="https://x.com/sami_dghim">X</a>
 </p>
 
 ---
@@ -25,12 +26,21 @@ Currently focused on building scalable SaaS platforms and developer tooling.
 
 ---
 
-# Featured Project
+# Featured Projects
 
-## QuizLab – QCM Learning Platform  
+## QuizLab – Certification Prep Platform  
 🔗 https://quizlab-app.com/
 
-A modern, full-stack exam preparation platform with adaptive quizzes, spaced repetition, secure exams, gamification, and multi-tenant architecture.
+A modern, full-stack certification prep platform with adaptive quizzes, spaced repetition, secure exams, gamification, and multi-tenant architecture.
+
+---
+
+## Reslate – AI CV Tailoring Platform
+🔗 https://reslate.quizlab-app.com/
+
+Upload an Overleaf CV (`.zip`) or a plain `.pdf` plus a job description, and get back a version of your CV tailored to that role — as both updated LaTeX and a compiled PDF.
+
+---
 
 # Other Notable Projects
 
@@ -80,6 +90,7 @@ Exploration of asynchronous processing and job orchestration patterns in Ruby.
 **Tech:** Ruby • Concurrency • Background Processing Patterns
 
 ---
+
 # Technical Expertise
 
 ## Backend
