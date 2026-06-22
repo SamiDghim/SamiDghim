@@ -42,7 +42,6 @@ Upload an Overleaf CV (`.zip`) or a plain `.pdf` plus a job description, and get
 
 ---
 ## Memo – Coding Session History Viewer
-🔗 https://github.com/SamiDghim/memo
 
 A zero-dependency Python CLI that merges your AI coding transcripts — Claude Code, Copilot CLI, Codex CLI, Gemini CLI, and Cursor — into one searchable HTML timeline. Every command, why it ran, and ✅/❌ status, grouped by session, plus a cost dashboard. No database, no telemetry.
 
