@@ -41,6 +41,11 @@ A modern, full-stack certification prep platform with adaptive quizzes, spaced r
 Upload an Overleaf CV (`.zip`) or a plain `.pdf` plus a job description, and get back a version of your CV tailored to that role — as both updated LaTeX and a compiled PDF.
 
 ---
+## Memo – Coding Session History Viewer
+🔗 https://github.com/SamiDghim/memo
+
+A zero-dependency Python CLI that merges your AI coding transcripts — Claude Code, Copilot CLI, Codex CLI, Gemini CLI, and Cursor — into one searchable HTML timeline. Every command, why it ran, and ✅/❌ status, grouped by session, plus a cost dashboard. No database, no telemetry.
+
 
 # Other Notable Projects
 
