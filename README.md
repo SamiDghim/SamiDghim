@@ -35,7 +35,7 @@ A multi-tenant SaaS exam-prep platform with adaptive quizzes, spaced repetition,
 
 **Highlights:**
 - Built and deployed a multi-tenant platform (Node/Express, React, PostgreSQL + Prisma, Redis/BullMQ) with Stripe subscriptions and JWT refresh-token rotation
-- Shipped an AI tutor (local Ollama + RAG over SearXNG) and an automated explainer-video pipeline (Remotion + TTS + Whisper alignment), plus a model fine-tuning workflow
+- Shipped an AI tutor  and an automated explainer-video pipeline, plus a model fine-tuning workflow
 - Ran it in production on Docker Compose / Dokploy with GitHub Actions CI/CD and a Prometheus + Grafana + Loki observability stack
 
 **Tech:** Node • React • PostgreSQL • Prisma • Redis • BullMQ • Stripe • Ollama • RAG • Docker
