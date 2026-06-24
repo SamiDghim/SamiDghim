@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sami</h1>
-<h3 align="center">Senior Fullstack Engineer • AI / LLM Engineering • System Design</h3>
+<h3 align="center">Senior Fullstack Engineer </h3>
 
 <p align="center">
   📍 Paris, France  
