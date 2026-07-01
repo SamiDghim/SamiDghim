@@ -6,7 +6,7 @@
   <br/>
   <a href="https://linkedin.com/in/sami-dghim-6a8a2798/">LinkedIn</a> •
   <a href="https://medium.com/@samidghim">Medium</a> •
-  <a href="https://x.com/sami_dghim">X</a>
+  <a href="https://x.com/sami_dghim">X</a>•
   <a href="https://portfolio-six-khaki-b338dz1h22.vercel.app">portfolio</a>
 </p>
 
