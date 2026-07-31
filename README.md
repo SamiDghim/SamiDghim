@@ -32,12 +32,12 @@ Currently focused on building scalable SaaS platforms and AI/LLM-powered product
 ## QuizLab – AI-Powered Certification Prep Platform  
 🔗 https://quizlab-app.com/
 
-A multi-tenant SaaS exam-prep platform with adaptive quizzes, spaced repetition, secure exams, and gamification.
+A multi-tenant SaaS exam-prep platform with adaptive quizzes, spaced repetition, secure timed exams, and gamification — built to take learners from first practice question to certification-ready.
 
 **Highlights:**
-- Built and deployed a multi-tenant platform (Node/Express, React, PostgreSQL + Prisma, Redis/BullMQ) with Stripe subscriptions and JWT refresh-token rotation
-- Shipped an AI tutor  and an automated explainer-video pipeline, plus a model fine-tuning workflow
-- Ran it in production on Docker Compose / Dokploy with GitHub Actions CI/CD and a Prometheus + Grafana + Loki observability stack
+- Architected and deployed a multi-tenant platform (Node/Express, React, PostgreSQL + Prisma, Redis/BullMQ) with Stripe subscriptions and JWT refresh-token rotation
+- Shipped an AI tutor and an automated explainer-video pipeline, backed by a RAG knowledge base and a custom model fine-tuning workflow
+- Ran it in production on Docker Compose / Dokploy with GitHub Actions CI/CD and a full Prometheus + Grafana + Loki observability stack
 
 **Tech:** Node • React • PostgreSQL • Prisma • Redis • BullMQ • Stripe • Ollama • RAG • Docker
 
